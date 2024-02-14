@@ -1,7 +1,8 @@
 <script>
-// @ts-nocheck
-
-    export let data;
+    /**
+     * @type {{ paramvar: string }}
+     */
+	export let data;
 </script>
 
 <h3>Welcome to SvelteKit</h3>
