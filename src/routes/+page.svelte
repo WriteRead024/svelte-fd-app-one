@@ -5,3 +5,7 @@
 <p><a href="/page-two">Page Two</a></p>
 <p><a href="/keypad">Keypad Page</a></p>
 <p><a href="/paramtest/example-value">Param Test with Example Value</a></p>
+<p><a href="/learning-notes/one">Learning Notes</a></p>
+<br>
+<br>
+<p><a href="https://svelte.dev/examples/hello-world">In-browser example sandbox</a></p>
