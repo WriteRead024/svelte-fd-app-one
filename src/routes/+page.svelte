@@ -4,6 +4,7 @@
 <p>project started Feb. 14th 2024</p>
 <p><a href="/page-two">Page Two</a></p>
 <p><a href="/keypad">Keypad Page</a></p>
+<p><a href="/twelve-keypad">Twelve Keypad Page</a></p>
 <p><a href="/paramtest/example-value">Param Test with Example Value</a></p>
 <p><a href="/learning-notes/one">Learning Notes</a></p>
 <br>
