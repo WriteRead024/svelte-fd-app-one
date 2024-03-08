@@ -1,10 +1,10 @@
 <svelte:head>
-    <title>New Test Page Two</title> 
+    <title>Test Page Two</title> 
 </svelte:head>
 
 <h3>Welcome to SvelteKit</h3>
 <h2>svelte-fd-app-one</h2>
-<h1>New Test Page Two</h1>
+<h1>Test Page Two</h1>
 <p>created Feb., Mar. 2024</p>
 <p>
     This page doesn't do anything but it does have a fun fact about this app:
