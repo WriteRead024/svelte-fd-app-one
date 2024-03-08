@@ -14,7 +14,7 @@
     and specially named files for "hooks" and "service workers".&nbsp; There is a folder for static files.
     There are several folders for different types of tests, there is significant test tool support built in.
     There are several configuration files, including a "svelte.config.js" file
-    <a class="ext" href="https://kit.svelte.dev/docs/configuration">(documentation)</a>.
+    <a class="ext" href="https://kit.svelte.dev/docs/configuration">(documentation on configuration)</a>.
 </p>
 <p>
     <a class="ext" href="https://kit.svelte.dev/docs/web-standards">web standards</a>:
