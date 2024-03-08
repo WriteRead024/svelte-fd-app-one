@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Twelve Key Keypad</title> 
+</svelte:head>
+
 <h3>Welcome to SvelteKit</h3>
 <h2>svelte-fd-app-one</h2>
 <h1>twelve keypad</h1>

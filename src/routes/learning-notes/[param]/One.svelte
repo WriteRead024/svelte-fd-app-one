@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Page One of Learning Notes</title> 
+</svelte:head>
+
 <p>
     <a class="ext" href="https://kit.svelte.dev/docs/introduction">introduction</a>:
     SvelteKit is a development kit and code base built around the Svelte UI component renderer.&nbsp;

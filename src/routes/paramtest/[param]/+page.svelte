@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Parameter Testing</title> 
+</svelte:head>
+
 <script>
     /**
      * @type {{ paramvar: string }}

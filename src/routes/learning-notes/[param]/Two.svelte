@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Page Two of Learning Notes</title> 
+</svelte:head>
+
 <p>
     <a href="https://kit.svelte.dev/docs/routing">routing</a>:
     The router is based on the file system folder structure.&nbsp;

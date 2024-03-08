@@ -1,3 +1,8 @@
+<svelte:head>
+    <title>svelte-fd-app-one</title> 
+</svelte:head>
+
+
 <h3>Welcome to SvelteKit</h3>
 <h1>svelte-fd-app-one</h1>
 for "svelte - first development (test) app one"
