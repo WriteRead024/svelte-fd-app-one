@@ -8,7 +8,7 @@
 for "svelte - first development (test) app one"
 <p>see <a class="ext" href="https://kit.svelte.dev">kit.svelte.dev</a> for documentation</p>
 <p>project started Feb. 14th 2024</p>
-<p><a href="/page-two">Page Two</a></p>
+<p><a href="/test-page-two">Test Page Two</a></p>
 <p><a href="/keypad">Keypad Page</a></p>
 <p><a href="/twelve-keypad">Twelve Keypad Page</a></p>
 <p><a href="/paramtest/example-value">Param Test with Example Value</a></p>
