@@ -9,7 +9,7 @@
 <p>
     This page doesn't do anything but it does have a fun fact about this app:
     hyperlinks in this 'svelte-fd-app-one' project that go to other external websites
-    are double-underlined.&nbsp; Links to pages within this website are single-underlined.
+    are double-underlined.&nbsp; links to pages within this website are single-underlined.
 </p>
 <p>
     here is a <a href="https://svelte.dev/blog">link to the svelte.dev blog</a>
