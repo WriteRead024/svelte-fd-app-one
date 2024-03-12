@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Page Two of Learning Notes</title> 
+    <title>Page Two of Learning Notes</title>
 </svelte:head>
 
 <p>
