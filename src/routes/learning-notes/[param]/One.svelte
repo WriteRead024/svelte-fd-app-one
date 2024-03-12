@@ -17,8 +17,11 @@
     there are special files for "lib" and "server lib" scripts, routing "parameter matchers", 
     and specially named files for "hooks" and "service workers".&nbsp; There is a folder for static files.
     There are several folders for different types of tests, there is significant test tool support built in.
-    There are several configuration files, including a "svelte.config.js" file
-    <a class="ext" href="https://kit.svelte.dev/docs/configuration">(documentation on configuration)</a>.
+    There are several configuration files, including a "svelte.config.js" file.&nbsp; 
+    For more info, see the 
+    <a href="/learning-notes/Config">notes page on Configuration</a> in this app
+    and the 
+    <a class="ext" href="https://kit.svelte.dev/docs/configuration">official documentation on configuration</a>.
 </p>
 <p>
     <a class="ext" href="https://kit.svelte.dev/docs/web-standards">web standards</a>:
