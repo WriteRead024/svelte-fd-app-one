@@ -2,6 +2,7 @@
 
 import One from "./One.svelte";
 import Two from "./Two.svelte";
+import Config from "./Config.svelte";
 import { error } from '@sveltejs/kit';
 
 export const load = ({ params }) => {
@@ -35,6 +36,15 @@ export const load = ({ params }) => {
             returnvar.pagetitle = "Core Concepts";
             returnvar.component = Two;
             returnvar.prevpage = "one";
+            break;
+        case "config":
+        case "Config":
+        case "configuration":
+        case "Configuration":
+            returnvar.pagenum = "Svelte(Kit)";
+            returnvar.pagetitle = "Configuration";
+            returnvar.component = Config;
+            returnvar.prevpage = "two";
             break;
         default:
             throw error(404, "Not Found");
