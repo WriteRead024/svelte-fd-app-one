@@ -12,6 +12,6 @@
     are double-underlined.&nbsp; Links to pages within this website are single-underlined.
 </p>
 <p>
-    It also has a <a href="https://svelte.dev/blog">link to the svelte.dev blog</a>
+    here is a <a href="https://svelte.dev/blog">link to the svelte.dev blog</a>
 </p>
 <p><a href="/">back to the main home page</a></p>
