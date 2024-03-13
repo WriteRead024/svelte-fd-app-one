@@ -7,13 +7,13 @@ import { error } from '@sveltejs/kit';
 
 export const load = ({ params }) => {
     /**
-	 * @type {{ pagenum?: string?,
-	 *         pagetitle?: string?,
-     *        nextpage?: string?,
-     *       prevpage?: string?,
-     *      datecreated?: string?,
-    *        component?: any? }}
-    */
+     * @type {{ pagenum?: string?,
+     *          pagetitle?: string?,
+     *          nextpage?: string?,
+     *          prevpage?: string?,
+     *          datecreated?: string?,
+     *          component?: any? }}
+     */
     let returnvar = {
         pagenum: null,
         pagetitle: null,
