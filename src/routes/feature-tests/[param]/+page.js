@@ -31,13 +31,11 @@ export async function load({ fetch, params }) {
             let apiurl = apiurlstart + "initialize";
             let response = await fetch(apiurl, { method: "GET" });
             let responsedata = await response.json();
-            console.log(responsedata);
             returnvar.pageprefix = "Feature Tests";
             returnvar.pagetitle = "Load Function";
             returnvar.prevpage = "/learning-notes/two";
             returnvar.component = LoadFunction;
             returnvar.wikiresponse = responsedata;
-            console.log("Load Function");
             break;
         default:
             throw error(404, "Not Found");
