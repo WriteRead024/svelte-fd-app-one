@@ -15,7 +15,7 @@
 <h2>svelte-fd-app-one</h2>
 <h2>Learning Notes Page {data.pagenum}: {data.pagetitle}</h2>
 <h4>from official documentation</h4>
-<svelte:component this={data.component} />
+<svelte:component this={data.component}/>
 {#if data.prevpage}
 <p><a href="/learning-notes/{data.prevpage}">Previous Page ({data.prevpage})</a></p>
 {/if}
