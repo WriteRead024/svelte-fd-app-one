@@ -13,7 +13,10 @@
 </p>
 <p>
     <a class="ext" href="https://kit.svelte.dev/docs/load">loading data</a>:
-    not done yet
+    loading data for interpolation into a page is done with the 'load' function defined in a '+page.js' file.&nbsp; 
+    See the 
+    <a href="/feature-tests/LoadFunction">feature tests Load Function</a> 
+    for an example of how that works.
 </p>
 <p>
      <a class="ext" href="https://kit.svelte.dev/docs/project-structure">form actions</a>:
