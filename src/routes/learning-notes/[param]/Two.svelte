@@ -19,11 +19,11 @@
     for an example of how that works.
 </p>
 <p>
-     <a class="ext" href="https://kit.svelte.dev/docs/project-structure">form actions</a>:
+     <a class="ext" href="https://kit.svelte.dev/docs/form-actions">form actions</a>:
     not done yet
 </p>
 <p>
-    <a class="ext" href="https://kit.svelte.dev/docs/web-standards">page options</a>:
+    <a class="ext" href="https://kit.svelte.dev/docs/page-options">page options</a>:
     not done yet
 </p>
 <p>
